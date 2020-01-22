@@ -1,3 +1,3 @@
 # Sandbox
 
-https://xgirma.github.io/test-page/
+https://xgirma.github.io/sandbox/
