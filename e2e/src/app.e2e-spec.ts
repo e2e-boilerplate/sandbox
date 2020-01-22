@@ -8,8 +8,8 @@ describe('', () => {
     page = new AppPage();
   });
 
-  it('', () => {
-    // ...
+  it('test', () => {
+    expect(true).toBeTruthy();
   });
 
   afterEach(async () => {
