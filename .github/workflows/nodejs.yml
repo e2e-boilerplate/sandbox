@@ -1,4 +1,4 @@
-name: NodeCI
+name: sandbox
 
 on: [push]
 
