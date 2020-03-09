@@ -2,8 +2,9 @@
   # Sandbox Boilerplate
   sandbox.
   ## Getting Started
-  	 git clone git@github.com:e2e-boilerplate/sandbox.git 
-	 cd sandbox 
-	 npm install 
-	 npm run build 
-	 npm run test 
+  	 git clone git@github.com:e2e-boilerplate/sandbox.git
+    	 cd sandbox
+    	 npm install
+    	 npm run build
+    	 npm run test
+    
