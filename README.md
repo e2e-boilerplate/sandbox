@@ -1,13 +1,11 @@
-[![GitHub Actions status | e2e-boilerplate/sandbox](https://github.com/e2e-boilerplate/sandbox/workflows/sandbox/badge.svg)](https://github.com/e2e-boilerplate/sandbox/actions?workflow=sandbox)
-
+[![GitHub Actions status | e2e-boilerplate/sandbox](https://github.com/e2e-boilerplate/sandbox/workflows/sandbox/badge.svg)](https://github.com/e2e-boilerplate/sandbox/actions?workflow=sandbox) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
 # Sandbox
-=======
-# Sandbox Boilerplate
     
 sandbox.
     
 ## Getting Started
-
+    
 1. git clone git@github.com:e2e-boilerplate/sandbox.git
     
 2. cd sandbox
