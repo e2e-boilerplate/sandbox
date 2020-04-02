@@ -42,6 +42,11 @@
     "typescript": "3.5.3"
   },
   "homepage": "https://github.com/e2e-boilerplate/sandbox#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [
     "boilerplate",
     "e2e",
@@ -51,6 +56,11 @@
     "sandbox"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "sandbox",
   "private": true,
   "repository": {
