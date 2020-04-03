@@ -44,7 +44,7 @@
   "homepage": "https://github.com/e2e-boilerplate/sandbox#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
